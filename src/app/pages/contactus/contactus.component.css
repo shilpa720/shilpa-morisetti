@@ -1,0 +1,7 @@
+.marquee
+{
+    background-image: url('/../../../../../../assets/img/bannerimg3.jpg');
+    height: 1300px;
+    background-position: center top;
+    background-size: cover;
+}
