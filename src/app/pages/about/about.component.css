@@ -1,0 +1,50 @@
+.banner
+{
+    background-image: url('/../../../../../../assets/img/bannerimg3.jpg');
+    height: 1300px;
+    background-position: center top;
+    background-size: cover;
+}
+.content
+{
+    top: 10%;
+    left: 10%;
+    position: absolute;
+}
+.content h1 
+{
+    color: #000;
+    font-size: 44px;
+    font-weight: bold;
+  
+}
+.content a 
+{
+    text-decoration: none;
+    background-color: #000;
+    color: var(--primary-color);
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+p
+{
+    color: #000000;
+    font-size: 32px;
+}
+h3
+{
+    color:#922B21;
+    font-size: 32px;
+}
+h2
+{
+    color:#E67E22;
+    font-size: 32px;
+    font-weight: bold;
+}
+ct-text-block
+{
+    color:#000000;
+    font-size: 52px;
+    font-weight: bold;
+}
